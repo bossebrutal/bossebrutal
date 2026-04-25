@@ -55,6 +55,7 @@ Infinite platformer game built with Python and Pygame.
 - AI / ML Engineering roles
 - Applied AI or Computer Vision roles
 - Software Engineering roles with a strong product and technical component
+- DevOps or platform-oriented roles where software, automation, and deployment intersect
 
 ## Connect
 
