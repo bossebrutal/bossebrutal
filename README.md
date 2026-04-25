@@ -1,62 +1,64 @@
 # Hi, I'm Patrik Winkler
 
 Software and AI developer based in Stockholm, Sweden.
-I build practical products that combine machine learning, computer vision, and app development.
+I build end-to-end products that combine machine learning, computer vision, backend systems, and user-facing applications.
 
-## About Me
+## What I Do
 
-- Focus areas: Computer Vision, AI Applications, Mobile Development, Python, TypeScript
-- I like building end-to-end projects: model training, backend APIs, and user-facing apps
-- Open to roles in AI/ML Engineering, Software Engineering, and Applied AI
+- Build practical AI-driven applications, from model training to deployment-oriented app workflows
+- Work across computer vision, mobile development, backend APIs, and product-focused engineering
+- Interested in roles within AI/ML Engineering, Applied AI, and Software Engineering
 
 ## Featured Projects
 
-### SafeDrive-ML
-PyTorch-based lane detection pipeline for dashcam footage.
+### [SafeDrive-ML](https://github.com/bossebrutal/SafeDrive-ML)
+Lane detection pipeline for dashcam footage built with PyTorch.
 
-- Trains a row-anchor lane detection model from PNG + JSON annotations
-- Includes training, evaluation, and inference scripts for images and videos
-- Tech: Python, PyTorch, OpenCV, Albumentations
+- Designed a row-anchor lane detection workflow using PNG + JSON annotations
+- Built training, evaluation, and image/video inference scripts for real-world driving footage
+- Focused on practical ML engineering: data handling, experimentation, checkpoints, and visual outputs
+- Tech: Python, PyTorch, OpenCV, Albumentations, NumPy
 
-Repository: https://github.com/bossebrutal/SafeDrive-ML
+### [Safe-drive-app](https://github.com/bossebrutal/Safe-drive-app)
+AI-powered mobile app for safer driving with lane detection and reward-based user feedback.
 
-### SafeDrive App
-AI-powered React Native app for safer driving with lane detection and rewards.
+- Developed a React Native app with camera workflows and ONNX-based inference integration
+- Built backend components using FastAPI, SQLAlchemy, Alembic, and authentication flows
+- Combined app, API, and ML layers into a single product-oriented system
+- Tech: TypeScript, React Native, Expo, FastAPI, SQLAlchemy, ONNX Runtime
 
-- Mobile frontend with real-time camera and ONNX inference
-- Backend with FastAPI, SQLAlchemy, Alembic, and auth flow
-- Practical full-stack AI product architecture
-
-Repository: https://github.com/bossebrutal/Safe-drive-app
-
-### Never Ending Sky
+### [Never-ending-sky](https://github.com/bossebrutal/Never-ending-sky)
 Infinite platformer game built with Python and Pygame.
 
-- Procedural gameplay and state-driven architecture
-- Score persistence and gameplay polish
-- Demonstrates clean game-loop and modular code design
-
-Repository: https://github.com/bossebrutal/Never-ending-sky
+- Implemented procedural gameplay, modular game architecture, and state-driven design
+- Added persistence for scores and settings together with gameplay polish and visual feedback
+- Showcases clean structure, gameplay systems, and attention to user experience
+- Tech: Python, Pygame, JSON-based persistence
 
 ## Tech Stack
 
 - Languages: Python, TypeScript, JavaScript
-- ML/CV: PyTorch, ONNX Runtime, OpenCV
-- App: React Native, Expo
+- AI / ML / CV: PyTorch, ONNX Runtime, OpenCV, Albumentations
+- Data & Visualization: NumPy, pandas, matplotlib
+- App Development: React Native, Expo
 - Backend: FastAPI, SQLAlchemy, Alembic
-- Tools: Git, GitHub, SQLite/PostgreSQL
+- Databases & Tools: SQLite, PostgreSQL, Git, GitHub
 
 ## What I'm Working On
 
-- Improving lane detection robustness across weather and road conditions
-- Strengthening production readiness for AI-driven mobile workflows
-- Building more portfolio-ready demos with clear metrics and visual results
+- Improving lane detection robustness across weather, lighting, and road conditions
+- Making AI-driven mobile workflows more production-ready
+- Turning portfolio projects into clearer demos with stronger metrics and visual results
 
-## Let's Connect
+## Looking For
 
-- LinkedIn: https://www.linkedin.com/in/patrikwin90
-- GitHub: https://github.com/bossebrutal
+- AI / ML Engineering roles
+- Applied AI or Computer Vision roles
+- Software Engineering roles with a strong product and technical component
 
----
+## Connect
 
-If you are interested in AI + software product development, feel free to reach out.
+- LinkedIn: [linkedin.com/in/patrikwin90](https://www.linkedin.com/in/patrikwin90)
+- GitHub: [github.com/bossebrutal](https://github.com/bossebrutal)
+
+If you are hiring for AI, computer vision, or product-focused software roles, feel free to reach out.
