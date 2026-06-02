@@ -3,11 +3,13 @@
 Software and AI developer based in Stockholm, Sweden.
 I build end-to-end products that combine machine learning, computer vision, backend systems, and user-facing applications.
 
+> 🔍 **Currently open to new opportunities** in Stockholm or remote — AI/ML Engineering, Applied AI, and Software Engineering roles.
+
 ## What I Do
 
 - Build practical AI-driven applications, from model training to deployment-oriented app workflows
-- Work across computer vision, mobile development, backend APIs, and product-focused engineering
-- Interested in roles within AI/ML Engineering, Applied AI, and Software Engineering
+- Work across computer vision, mobile development, backend APIs, and data engineering
+- Ship full-stack products: from data pipelines and ML models to APIs and user-facing UIs
 
 ## Featured Projects
 
@@ -45,14 +47,22 @@ End-to-end data platform analysing how weather affects traffic flow in Sweden.
 
 ## Tech Stack
 
-- Languages: Python, TypeScript, JavaScript
-- AI / ML / CV: PyTorch, ONNX Runtime, OpenCV, Albumentations, scikit-learn, OpenAI GPT-4o
-- Data Engineering: Apache Airflow, MLflow, pandas, NumPy
-- Data & Visualization: Streamlit, matplotlib
-- App Development: React Native, Expo
-- Backend: FastAPI, SQLAlchemy, Alembic
-- Databases & Tools: SQLite, PostgreSQL, Git, GitHub
-- Cloud & DevOps: Google Cloud Run, Docker, GitHub Actions
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## What I'm Working On
 
@@ -62,14 +72,20 @@ End-to-end data platform analysing how weather affects traffic flow in Sweden.
 
 ## Looking For
 
-- AI / ML Engineering roles
-- Applied AI or Computer Vision roles
-- Software Engineering roles with a strong product and technical component
-- DevOps or platform-oriented roles where software, automation, and deployment intersect
+Actively seeking roles in **Stockholm** (or remote):
+
+- **AI / ML Engineering** — model development, experimentation, deployment pipelines
+- **Applied AI / Computer Vision** — products built around LLMs, vision models, and inference
+- **Backend / Data Engineering** — API-driven systems with a strong ML or data component
+
+Feel free to reach out on LinkedIn or via GitHub.
 
 ## Connect
 
 - LinkedIn: [linkedin.com/in/patrikwin90](https://www.linkedin.com/in/patrikwin90)
 - GitHub: [github.com/bossebrutal](https://github.com/bossebrutal)
 
-If you are hiring for AI, computer vision, or product-focused software roles, feel free to reach out.
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bossebrutal&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossebrutal&layout=compact&hide_border=true)
