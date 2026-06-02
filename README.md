@@ -27,28 +27,38 @@ AI-powered mobile app for safer driving with lane detection and reward-based use
 - Combined app, API, and ML layers into a single product-oriented system
 - Tech: TypeScript, React Native, Expo, FastAPI, SQLAlchemy, ONNX Runtime
 
-### [Never-ending-sky](https://github.com/bossebrutal/Never-ending-sky)
-Infinite platformer game built with Python and Pygame.
+### [Docly](https://github.com/bossebrutal/PropertyAgent)
+AI-powered web app for analysing and managing Swedish property documents.
 
-- Implemented procedural gameplay, modular game architecture, and state-driven design
-- Added persistence for scores and settings together with gameplay polish and visual feedback
-- Showcases clean structure, gameplay systems, and attention to user experience
-- Tech: Python, Pygame, JSON-based persistence
+- Built a FastAPI backend with OpenAI GPT-4o integration for document Q&A, risk analysis, and contract review
+- Frontend in Vanilla JS (zero dependencies) served via nginx inside Docker
+- Smart export to Word, PDF, and Excel — including AI-structured Excel tables from free-text prompts
+- Tech: Python, FastAPI, OpenAI GPT-4o, PyMuPDF, python-docx, Vanilla JS, Docker, nginx
+
+### [SafeDrive Analytics](https://github.com/bossebrutal/safedriveanalytics)
+End-to-end data platform analysing how weather affects traffic flow in Sweden.
+
+- Orchestrated ingestion and transformation pipelines with Apache Airflow pulling from SMHI and Trafikverket APIs
+- Built a scikit-learn ML model served via FastAPI and tracked with MLflow model registry
+- Deployed scheduled jobs on Google Cloud Run with CI/CD via GitHub Actions
+- Tech: Python, Apache Airflow, PostgreSQL, pandas, scikit-learn, FastAPI, Streamlit, MLflow, Docker, Google Cloud Run
 
 ## Tech Stack
 
 - Languages: Python, TypeScript, JavaScript
-- AI / ML / CV: PyTorch, ONNX Runtime, OpenCV, Albumentations
-- Data & Visualization: NumPy, pandas, matplotlib
+- AI / ML / CV: PyTorch, ONNX Runtime, OpenCV, Albumentations, scikit-learn, OpenAI GPT-4o
+- Data Engineering: Apache Airflow, MLflow, pandas, NumPy
+- Data & Visualization: Streamlit, matplotlib
 - App Development: React Native, Expo
 - Backend: FastAPI, SQLAlchemy, Alembic
 - Databases & Tools: SQLite, PostgreSQL, Git, GitHub
+- Cloud & DevOps: Google Cloud Run, Docker, GitHub Actions
 
 ## What I'm Working On
 
+- Expanding SafeDrive Analytics with real-time data pipelines and improved ML predictions
+- Deepening Docly with multi-document reasoning and richer export formats
 - Improving lane detection robustness across weather, lighting, and road conditions
-- Making AI-driven mobile workflows more production-ready
-- Turning portfolio projects into clearer demos with stronger metrics and visual results
 
 ## Looking For
 
